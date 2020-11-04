@@ -8,6 +8,8 @@ change folder name . eg 'blog'.
 
 copy downloaded files into xampp , paste in htdocs folder .
 
+you can find xampp folder in disk C
+
 direct url to localhost/'name of folder that contains download files'/index.php
 
 
